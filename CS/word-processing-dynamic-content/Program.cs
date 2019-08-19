@@ -7,7 +7,7 @@ using DevExpress.Office;
 using DevExpress.XtraRichEdit;
 using DevExpress.XtraRichEdit.API.Native;
 
-namespace word_processing_insert_dynamic_content
+namespace word_processing_dynamic_content
 {
     class Program
     {
@@ -107,3 +107,4 @@ namespace word_processing_insert_dynamic_content
 
     }
 }
+
