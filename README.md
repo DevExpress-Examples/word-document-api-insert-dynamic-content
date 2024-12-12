@@ -6,7 +6,10 @@
 <!-- default badges end -->
 # Word Processing Document API - Insert Dynamic Content
 
-The following code sample shows use the [DOCVARIABLE](https://docs.devexpress.com/OfficeFileAPI/15291/word-processing-document-api/fields/field-codes/docvariable) field and [RichEditDocumentServer.CalculateDocumentVariable](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraRichEdit.RichEditDocumentServer.CalculateDocumentVariable) event to insert dynamic (formatted) content. In this example, the DOCVARIABLE field is used to display the DevExpress community website's RSS feed.
+The following code sample shows use the [DOCVARIABLE](https://docs.devexpress.com/OfficeFileAPI/15291/word-processing-document-api/fields/field-codes/docvariable) field and [RichEditDocumentServer.CalculateDocumentVariable](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraRichEdit.RichEditDocumentServer.CalculateDocumentVariable) event to insert dynamic (formatted) content. In this example, the DOCVARIABLE field displays the DevExpress community website's RSS feed.
+
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page.  
 
 # Files to Review
 
