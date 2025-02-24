@@ -13,7 +13,7 @@ The following code sample shows use the [DOCVARIABLE](https://docs.devexpress.co
 
 # Files to Review
 
-* [Program.cs](./CS/word-processing-dynamic-content/Program.cs) (VB: [Module1.vb](./VB/how-to-insert-dynamic-content/Module1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Module1.vb](./VB/how-to-insert-dynamic-content/Module1.vb))
 
 # Documentation
 
