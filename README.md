@@ -17,7 +17,7 @@ The following code sample shows use the [DOCVARIABLE](https://docs.devexpress.co
 * [How to use document variable (DOCVARIABLE) fields](https://github.com/DevExpress-Examples/office-file-api-how-to-use-docvariable-fields)
 * [RichEditDocumentServer.CalculateDocumentVariable](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraRichEdit.RichEditDocumentServer.CalculateDocumentVariable)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-insert-dynamic-content&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-insert-dynamic-content&~~~was_helpful=no)
 
